@@ -1,2 +1,2 @@
 # Tecblog
- Blog criado usando HTML 5 e CSS 3
+ Blog criado usando HTML e CSS
